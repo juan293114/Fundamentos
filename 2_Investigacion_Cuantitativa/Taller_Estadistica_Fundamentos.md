@@ -1,7 +1,7 @@
 # Taller Práctico: Fundamentos de Estadística
 
 ## Contexto:
-Acabas de aplicar una prueba piloto de "Razonamiento Abstracto" a un grupo de 18 estudiantes. La prueba tiene una puntuación máxima de 20 puntos.
+Acabas de aplicar una prueba piloto de "Razonamiento Abstracto" a un grupo de 19 estudiantes. La prueba tiene una puntuación máxima de 20 puntos.
 
 ## Tus Datos (Puntuaciones Directas $X$):
 Aquí están las notas obtenidas por los 19 sujetos:
